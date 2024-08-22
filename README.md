@@ -4,6 +4,8 @@ Exploratory Data Analysis of Airbnb NYC 2019 data
 ## Project Overview
 This project involves the exploration and analysis of an Airbnb dataset containing approximately 49,000 observations and 16 columns. The dataset is a mix of categorical and numeric values, and the analysis aims to uncover key insights that can aid in various business decisions. These insights can be used to enhance security, guide marketing strategies, improve customer and host experiences, and support the implementation of innovative services on the platform.
 
+[Project Link](https://github.com/ShouvikSaha504/Airbnb-Booking-Analysis---EDA/blob/4ff1bbdde545e9ada2aa5a879f62902ac6d1adc2/Copy_of_Sample_EDA_Submission_Template.ipynb)
+
 ## Business Context
 Since its inception in 2008, Airbnb has revolutionized the way people travel, offering unique and personalized experiences around the world. With millions of listings available globally, data analysis has become a critical tool for understanding customer and host behavior, driving business decisions, and ensuring the platform's continued growth and security.
 
