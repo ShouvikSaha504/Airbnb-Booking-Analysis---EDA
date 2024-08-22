@@ -10,6 +10,8 @@ Since its inception in 2008, Airbnb has revolutionized the way people travel, of
 This project focuses on analyzing Airbnb listing data to uncover trends and patterns that can inform business strategies, optimize operations, and enhance the overall experience for both guests and hosts.
 
 ## Dataset Description
+
+[Dataset Link](https://github.com/ShouvikSaha504/Airbnb-Booking-Analysis---EDA/blob/7e2a2886283fd45b8a03a7fbc7fb5c962aa31638/Airbnb%20NYC%202019.csv)
 The dataset used in this project includes the following fields:
 
 - **id**: Unique identifier for the listing
