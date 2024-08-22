@@ -9,9 +9,19 @@ Since its inception in 2008, Airbnb has revolutionized the way people travel, of
 
 This project focuses on analyzing Airbnb listing data to uncover trends and patterns that can inform business strategies, optimize operations, and enhance the overall experience for both guests and hosts.
 
+## Objectives
+
+The main objectives of this project are to:
+
+1. Understand the key factors that influence pricing and customer behavior on Airbnb.
+2. Identify popular neighborhoods and room types that are in high demand.
+3. Provide actionable insights that can be used to enhance Airbnb’s marketing strategies, improve customer satisfaction, and optimize host performance.
+4. Highlight any potential security concerns or risks based on the data.
+
 ## Dataset Description
 
 [Dataset Link](https://github.com/ShouvikSaha504/Airbnb-Booking-Analysis---EDA/blob/7e2a2886283fd45b8a03a7fbc7fb5c962aa31638/Airbnb%20NYC%202019.csv)
+
 The dataset used in this project includes the following fields:
 
 - **id**: Unique identifier for the listing
@@ -45,10 +55,4 @@ The project includes a thorough exploratory data analysis (EDA) to identify patt
 - **Heatmaps**: To visualize correlations between multiple variables.
 - **Box Plots**: To identify outliers and understand the spread of data.
 
-## Objectives
-The main objectives of this project are to:
 
-1. Understand the key factors that influence pricing and customer behavior on Airbnb.
-2. Identify popular neighborhoods and room types that are in high demand.
-3. Provide actionable insights that can be used to enhance Airbnb’s marketing strategies, improve customer satisfaction, and optimize host performance.
-4. Highlight any potential security concerns or risks based on the data.
